@@ -3,6 +3,8 @@ C++ Genetic Algorithm implementation to predict a solution for the 0/1 Knapsack 
 
 Compares accuracy of Genetic Algorithm's prediction to the dynamic programming solution
 
+![GeneticAlgoTerminal](https://user-images.githubusercontent.com/33404359/142709221-83e8f2ac-4dd5-44a4-8ee8-64f424690ce5.png)
+
 ## Approach:
 1. Genome represented as vector of 0 or 1 values, 1 for include item, 0 for exclude item
 2. Initialize random population 
